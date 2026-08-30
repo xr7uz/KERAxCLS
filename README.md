@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-#### i'm kera. 18yo and a self-taught  developer.
+#### i'm xr7uz. 18yo and a self-taught  developer.
 
-management at [sync.bio](https://discord.gg/syncbio)<br>
-- 🌍 You can contact me via discord. (@kera_cls)
-- ⚙️ I'm working with: `.lua`, `.js`, `.html`, `.css`, `php`, `mysql`, `nodejs`
+management at [xr7uz.xyz](https://xr7uz.xyz)<br>
+- 🌍 You can contact me via instagram. (@xr7uz)
+- ⚙️ I'm working with: `.tsx`, `.ts`, `.js`, `.css`, `lua`, `mysql`, `nodejs`
